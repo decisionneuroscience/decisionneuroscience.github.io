@@ -4,7 +4,7 @@
 
 **Computational Decision Neuroscience (CDN) Summer School** 
 
-是由本实验室发起的学术培训项目，旨在培养决策神经科学领域的跨学科研究人才。
+是由本实验室发起的学术交流项目，旨在促进跨学科融合，培养决策神经科学领域的跨学科研究人才。
 
 ---
 

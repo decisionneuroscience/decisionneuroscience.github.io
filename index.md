@@ -1,3 +1,9 @@
+<style>
+  body { font-family: "Optima", "Charter", "Georgia", serif; }
+  a { text-decoration: none; color: #1a73e8; transition: 0.3s; }
+  a:hover { color: #d93025; text-decoration: underline; }
+</style>
+
 [🏠 首页](index.md) | [🔬 科研项目](projects.md) | [📚 论文发表](papers.md) | [🏆 获奖荣誉](awards.md) | [🏫 暑期学校](summer-school.md) | [🛠️ 实验设备](equipment.md) | [💻 GitHub](https://github.com/decisionneuroscience)
 
 # Decision Neuroscience Lab | 决策神经科学实验室

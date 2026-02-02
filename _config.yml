@@ -1,1 +1,14 @@
 remote_theme: pages-themes/cayman@v0.2.0
+
+title: Decision Neuroscience Lab | 决策神经科学实验室
+description: Advancing the science of choice and decision making through computational innovation
+author: Qiang Shen
+lang: zh-CN
+
+# SEO
+url: "https://decisionneuroscience.github.io"
+baseurl: ""
+
+# Build settings
+markdown: kramdown
+highlighter: rouge

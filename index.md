@@ -24,7 +24,7 @@ Welcome to the official website of the **Decision Neuroscience Lab** at Shanghai
 
 **Qiang Shen (沈强)**, Ph.D., Professor
 
-上海外国语大学国际工商管理学院教授、博士生导师，计算神经科学研究所所长。浙江大学管理学博士、新加坡国立大学博士后、德国波恩大学访问学者。入选上海市东方英才计划青年项目，上海外国语大学卓越志远学者。Google Scholar总被引2000余次，在 *Management Science*、*Journal of Economic Theory*、*Nature*、*Cerebral Cortex*、*NeuroImage* 等期刊发表论文多篇。
+上海外国语大学国际工商管理学院教授、博士生导师，计算神经科学研究所所长。浙江大学管理学博士、新加坡国立大学博士后、德国波恩大学访问学者。入选上海市东方英才计划青年项目，上海外国语大学卓越志远学者。[Google Scholar](https://scholar.google.com/citations?user=UNyeQzsAAAAJ&hl=en) 总被引2000余次，在 *Management Science*、*Journal of Economic Theory*、*Nature*、*Cerebral Cortex*、*NeuroImage* 等期刊发表论文多篇。
 
 ### Post-doctoral Fellows
 **Shiguang Fu (傅仕光)**, **Doudou Lin (林豆豆)**
@@ -52,6 +52,9 @@ We are committed to transparency in research. You can find our pre-registrations
 
 **Contact | 联系方式**
 
-📧 Email: johnsonzhj@shisu.edu.cn
-🔗 ORCID: [0000-0003-1330-1315](https://orcid.org/0000-0003-1330-1315)
-📍 Address: Shanghai International Studies University, Shanghai, China
+| | |
+|---|---|
+| 📧 Email | johnsonzhj@shisu.edu.cn |
+| 🔗 ORCID | [0000-0003-1330-1315](https://orcid.org/0000-0003-1330-1315) |
+| 🎓 Google Scholar | [Profile](https://scholar.google.com/citations?user=UNyeQzsAAAAJ&hl=en) |
+| 📍 Address | Shanghai International Studies University, Shanghai, China |

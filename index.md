@@ -29,7 +29,7 @@ We bridge Neuroeconomics, Deep Learning, and Behavioral Science to advance the f
 
 ### Master's Students
 - **Mengqi Yan (闫梦琦)**, **Kaixin Wu (伍凯欣)**, **Yue Li (李悦)**, **Zini Liu (刘子妮)**, **Rui Zhang (张睿)**
----
+
 
 ---
 

@@ -1,5 +1,4 @@
-[🏠 实验室首页](index.html) |[📚 实验设备](equipment.html)| [🔬 科研项目](projects.html) | [📚 论文发表](papers.html) | [💻 GitHub 组织](https://github.com/decisionneuroscience)
-
+[🏠 实验室首页](index.html) | [🔬 科研项目](projects.html) | [📚 论文发表](papers.html) | [🛠️ 实验设备](equipment.html) | [💻 GitHub 组织](https://github.com/decisionneuroscience)
 
 # Decision Neuroscience Lab | 决策神经科学实验室
 
@@ -19,6 +18,13 @@ We bridge Neuroeconomics, Deep Learning, and Behavioral Science to advance the f
 
 ---
 
+## 🏗️ Ongoing Work | 建设中
+
+- **Projects & Publications**: Detailed list of our ongoing research and selected papers is **Coming Soon**.
+- **Lab Facilities**: Showcase of our computational and experimental equipment is **Coming Soon**.
+
+---
+
 ## 👥 Our Team | 团队成员
 
 ### Principal Investigator
@@ -33,7 +39,6 @@ We bridge Neuroeconomics, Deep Learning, and Behavioral Science to advance the f
 ### Master's Students
 - **Mengqi Yan (闫梦琦)**, **Kaixin Wu (伍凯欣)**, **Yue Li (李悦)**, **Zini Liu (刘子妮)**, **Rui Zhang (张睿)**
 
-
 ---
 
 ## 📁 Open Science | 开放科学
@@ -43,5 +48,3 @@ We are committed to transparency in research. You can find our pre-registrations
 ---
 
 *Contact: johnsonzhj123 at gmail dot com*
-
----

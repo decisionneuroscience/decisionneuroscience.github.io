@@ -1,3 +1,6 @@
+[🏠 实验室首页](index.html) |[📚 实验设备](equipment.html)| [🔬 科研项目](projects.html) | [📚 论文发表](papers.html) | [💻 GitHub 组织](https://github.com/decisionneuroscience)
+
+
 # Decision Neuroscience Lab | 决策神经科学实验室
 
 Welcome to the official website of the **Decision Neuroscience Lab**. 

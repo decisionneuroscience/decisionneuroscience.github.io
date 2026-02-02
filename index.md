@@ -50,10 +50,10 @@ We are committed to transparency in research. You can find our pre-registrations
 
 ---
 
-**Contact | 联系方式**
+## 📬 Contact | 联系方式
 
 | | |
-|---|---|
+|:--|:--|
 | 📧 Email | johnsonzhj@shisu.edu.cn |
 | 🔗 ORCID | [0000-0003-1330-1315](https://orcid.org/0000-0003-1330-1315) |
 | 🎓 Google Scholar | [Profile](https://scholar.google.com/citations?user=UNyeQzsAAAAJ&hl=en) |

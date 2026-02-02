@@ -43,6 +43,5 @@ We are committed to transparency in research. You can find our pre-registrations
 ---
 
 *Contact: johnsonzhj123 at gmail dot com*
----
 
-*Contact: johnsonzhj123 at gmail dot com*
+---

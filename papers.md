@@ -2,7 +2,7 @@
 
 # Publications | 论文发表
 
-> [**Google Scholar**](https://scholar.google.com/citations?user=UNyeQzsAAAAJ&hl=en) 总被引 **2000+** 次
+> [**Google Scholar**](https://scholar.google.com/citations?user=UNyeQzsAAAAJ&hl=en) 总被引 **2100+** 次
 
 ---
 
@@ -16,8 +16,9 @@
 ### 📄 期刊论文 | Journal Articles
 
 #### 2026
-- Aczel B., Szaszi B., Clelland H.T., ..., **Shen Q.**, ..., Nosek B. Investigating the analytical robustness of the social and behavioural sciences. ***Nature***, accepted.
-- Lin D., Sun H., **Shen Q.\***, Jiang X., Fu S., Xiao Q., Wu S., Klucharev V., Shestakova A., Wang Y. Decision for self and other modulates risk attitude and electrophysiological processing. ***Cerebral Cortex***, in press.
+- Feng J., Jin J., Zhao S., Derrington E., Qin X., Fu S.\*, **Shen Q.**\*, Dreher J.C. Neural correlates of interactions between adaptive learning and hierarchical reasoning in repeated strategic games. ***Games and Economic Behavior***, 158, 167-190.
+- Aczel B., Szaszi B., Clelland H.T., ..., **Shen Q.**, ..., Nosek B. Investigating the analytical robustness of the social and behavioural sciences. ***Nature***, 652(8108), 135-142.
+- Lin D., Sun H., **Shen Q.\***, Jiang X., Fu S., Xiao Q., Wu S., Klucharev V., Shestakova A., Wang Y. Decision for self and other modulates risk attitude and electrophysiological processing. ***Cerebral Cortex***, 36(2), bhag001.
 - Lin D., **Shen Q.\***, An Y., Fu S., Xiao Q., Wu S., Song X., Jiang X., Klucharev V., Cai D., Wang Y. Assessing the roles of subjective value and valence in outcome evaluation for consumer products. ***Acta Psychologica***, 262, 106011.
 
 #### 2025

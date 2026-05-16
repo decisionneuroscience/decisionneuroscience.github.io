@@ -30,7 +30,7 @@ Welcome to the official website of the **Decision Neuroscience Lab** at Shanghai
 **Shiguang Fu (傅仕光)**, **Doudou Lin (林豆豆)**
 
 ### Ph.D. Students
-**Qingyan Xiao (肖青艳)**, **Sisi Wu (吴思思)**, **Xiaoyu Jiang (姜小宇)**
+**Qingyan Xiao (肖青艳)**, **Sisi Wu (吴思思)**, **Xiaoyu Jiang (姜小宇)**, **Chenyi Zhang (张宸溢)**
 
 ### Master's Students
 **Mengqi Yan (闫梦琦)**, **Kaixin Wu (伍凯欣)**, **Yue Li (李悦)**, **Zini Liu (刘子妮)**, **Rui Zhang (张睿)**

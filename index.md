@@ -37,7 +37,7 @@ Welcome to the official website of the **Decision Neuroscience Lab** at Shanghai
 
 **上外毕业校友**
 
-**Shiguang Fu (傅仕光)**, **Yuanjie Ye(叶媛婕)**，**Mengqi Yan (闫梦琦)**, **Kaixin Wu (伍凯欣)**,
+**Shiguang Fu (傅仕光)**, **Yuanjie Ye(叶媛婕)**，**Mengqi Yan (闫梦琦)**, **Kaixin Wu (伍凯欣)**
 
 ---
 

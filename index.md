@@ -58,7 +58,7 @@ We are committed to transparency in research. You can find our pre-registrations
 
 | | |
 |:--|:--|
-| 📧 Email | johnsonzhj@shisu.edu.cn |
+| 📧 Email | johnsonzhj123 [at] gmail.com |
 | 🔗 ORCID | [0000-0003-1330-1315](https://orcid.org/0000-0003-1330-1315) |
 | 🎓 Google Scholar | [Profile](https://scholar.google.com/citations?user=UNyeQzsAAAAJ&hl=en) |
 | 📍 Address | Shanghai International Studies University, Shanghai, China |

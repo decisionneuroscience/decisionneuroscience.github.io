@@ -8,8 +8,16 @@
 
 ### 📖 专著 | Monographs
 
+- **沈强**、马庆国. 《计算决策神经科学》. 待出版.
 - **沈强**、金佳、胡林枫、Richard Ebstein (2022). 《管理决策：脑科学视角下的新解读》. **科学出版社**.
 - Ebstein R.P., Bachner-Melman R., Lu Y., Chew S.H., **Shen Q.** (2015). Virtue, Values, Genes and Psychological Well-Being. In: *Genetics of Psychological Well-Being*. **Oxford University Press**.
+
+---
+
+### 📝 工作论文 | Working Papers
+
+- Fu S., **Shen Q.**, Zhang X. *Strategic Ignorance and Overconfidence in Social Learning*. Working paper.
+- **Shen Q.**, Xiao Q., Fu S. *GeoGaze: A Validated Webcam Eye-Tracking Framework for Attentional Drift Diffusion Modeling*. Working paper.
 
 ---
 
@@ -89,4 +97,3 @@
 
 ---
 [← 返回首页](index.md)
-

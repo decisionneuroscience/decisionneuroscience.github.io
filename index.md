@@ -24,23 +24,27 @@ Welcome to the official website of the **Decision Neuroscience Lab** at Shanghai
 
 **Qiang Shen (沈强)**, Ph.D., Professor
 
-上海外国语大学国际工商管理学院教授、博士生导师，计算神经科学研究所所长。浙江大学管理学博士、新加坡国立大学博士后、德国波恩大学访问学者。入选上海市东方英才计划青年项目，上海外国语大学卓越志远学者。[Google Scholar](https://scholar.google.com/citations?user=UNyeQzsAAAAJ&hl=en) 总被引2100余次，在 *Management Science*、*Games and Economic Behavior*、*Journal of Economic Theory*、*Nature*、*Cerebral Cortex*、*NeuroImage* 等期刊发表论文多篇。
+上海外国语大学国际工商管理学院教授、博士生导师，计算神经科学研究所所长。浙江大学管理学博士、新加坡国立大学博士后、德国波恩大学访问学者。入选上海市东方英才计划青年项目，上海外国语大学卓越志远学者。作为第一完成人，曾获教育部第十届科学研究优秀成果奖（人文社会科学）二等奖、上海市第十七届哲学社会科学优秀成果奖一等奖等荣誉。[Google Scholar](https://scholar.google.com/citations?user=UNyeQzsAAAAJ&hl=en) 总被引2100余次，在 *Management Science*、*Games and Economic Behavior*、*Journal of Economic Theory*、*Nature*、*Cerebral Cortex*、*NeuroImage* 等期刊发表论文多篇。
 
 ### Post-doctoral Fellows
-**Shiguang Fu (傅仕光)**, **Doudou Lin (林豆豆)**
+**Doudou Lin (林豆豆)**
 
 ### Ph.D. Students
 **Qingyan Xiao (肖青艳)**, **Sisi Wu (吴思思)**, **Xiaoyu Jiang (姜小宇)**, **Chenyi Zhang (张宸溢)**
 
 ### Master's Students
-**Mengqi Yan (闫梦琦)**, **Kaixin Wu (伍凯欣)**, **Yue Li (李悦)**, **Zini Liu (刘子妮)**, **Rui Zhang (张睿)**
+ **Yue Li (李悦)**, **Zini Liu (刘子妮)**, **Rui Zhang (张睿)**
+
+上外毕业校友
+
+**Shiguang Fu (傅仕光)**, Yuanjie Ye(叶媛婕)，**Mengqi Yan (闫梦琦)**, **Kaixin Wu (伍凯欣)**,
 
 ---
 
 ## 🏛️ Affiliations | 归属
 
 - 国际工商管理学院
-- 脑机协同信息行为教育部重点实验室 & 磁共振成像研究中心
+- 脑机协同信息行为教育部重点实验室 &脑机协同与认知表达上海市重点实验室&磁共振成像研究中心
 
 ---
 

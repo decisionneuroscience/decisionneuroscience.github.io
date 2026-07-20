@@ -22,7 +22,7 @@ Welcome to the official website of the **Decision Neuroscience Lab** at Shanghai
 
 **Qiang Shen (沈强)**, Ph.D., Professor
 
-上海外国语大学国际工商管理学院教授、博士生导师，计算神经科学研究所所长。浙江大学管理学博士、新加坡国立大学博士后、德国波恩大学访问学者。入选上海市东方英才计划青年项目，上海外国语大学卓越志远学者。[Google Scholar](https://scholar.google.com/citations?user=UNyeQzsAAAAJ&hl=en) 总被引2000余次，在 *Management Science*、*Journal of Economic Theory*、*Nature*、*Cerebral Cortex*、*NeuroImage* 等期刊发表论文多篇。
+上海外国语大学国际工商管理学院教授、博士生导师，计算神经科学研究所所长。浙江大学管理学博士、新加坡国立大学博士后、德国波恩大学访问学者。入选上海市东方英才计划青年项目，上海外国语大学卓越志远学者。曾获教育部第十届科学研究优秀成果奖（人文社会科学）二等奖、上海市第十七届哲学社会科学优秀成果奖一等奖。[Google Scholar](https://scholar.google.com/citations?user=UNyeQzsAAAAJ&hl=en) 总被引2000余次，在 *Management Science*、*Journal of Economic Theory*、*Nature*、*Cerebral Cortex*、*NeuroImage* 等期刊发表论文多篇。
 
 ### Post-doctoral Fellows
 **Shiguang Fu (傅仕光)**, **Doudou Lin (林豆豆)**
@@ -179,6 +179,7 @@ We are committed to transparency in research. You can find our pre-registrations
 
 ### 🏅 省部级及以上奖励 | Provincial & National Awards
 
+- **2026** 教育部第十届科学研究优秀成果奖（人文社会科学）**二等奖**
 - **2025** 上海市第十七届哲学社会科学优秀成果奖 **一等奖**
 - **2023** 上海市东方英才计划青年项目
 - **2015** 教育部第七届高等学校科学研究优秀成果奖 (人文社会科学) 三等奖
@@ -204,7 +205,7 @@ We are committed to transparency in research. You can find our pre-registrations
 
 **Computational Decision Neuroscience (CDN) Summer School** 
 
-是由本实验室发起的学术交流项目，旨在促进跨学科融合，培养决策神经科学领域的跨学科研究人才。
+是由本团队发起的学术交流项目，旨在促进跨学科融合，培养决策神经科学领域的跨学科研究人才。
 
 ---
 
@@ -221,11 +222,21 @@ We are committed to transparency in research. You can find our pre-registrations
 
 ---
 
-### 🚀 第二届 (2026) | 计划中
+### 🚀 第二届 (2026) | 浙江·德清
 
-**计算决策神经科学暑期学校暨决策神经科学研讨会**
+**第二届计算决策神经科学暑期学校暨决策神经科学研讨会**
 
-*详情敬请期待...*
+- **时间**：2026年8月10日–13日
+- **地点**：浙江德清
+
+第二届暑期学校围绕选择建模、认知建模、神经科学工具箱、机器学习与生成式人工智能四个主题展开。
+
+| 日期 | 主题 | 主旨报告 | 课程讲者与模块 |
+|------|------|----------|----------------|
+| 8月10日 | 实验计量经济学与选择建模 | 钟松发（香港科技大学） | 张兴（韩国成均馆大学）：行为决策论；司继春（上海对外经贸大学）：多项 Logit 模型 |
+| 8月11日 | 认知建模 | 张磊（英国伯明翰大学） | 潘晚柯（南京师范大学）：漂移扩散模型（DDM）；方泽鸣（深圳大学）：强化学习（RL） |
+| 8月12日 | 神经科学工具箱 | 李济安（纽约大学） | 王乾东（北京师范大学）：眼动追踪；高晓雪（华东师范大学）：fMRI 数据分析（MVPA、RSA） |
+| 8月13日 | 机器学习与生成式人工智能 | 祝建桥（香港大学） | 张书怀（中央财经大学）：人工智能可解释性；谢涵博（佐治亚理工学院）：深度神经网络（DNN） |
 
 ---
 

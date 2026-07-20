@@ -1,4 +1,4 @@
-[🏠 首页](index.md) | [🔬 科研项目](projects.md) | [📚 论文发表](papers.md) | [🏆 获奖荣誉](awards.md) | [🏫 暑期学校](summer-school.md) | [🛠️ 实验设备](equipment.md) | [💻 GitHub](https://github.com/decisionneuroscience)
+[🏠 首页](index.md) | [🔬 科研项目](projects.md) | [📚 论文发表](papers.md) | [🏆 获奖荣誉](awards.md) | [🏫 暑期学校](summer-school.md) | [🌐 平台资源](platforms.md) | [🛠️ 实验设备](equipment.md) | [💻 GitHub](https://github.com/decisionneuroscience)
 
 # Decision Neuroscience Lab | 决策神经科学实验室
 
@@ -35,9 +35,9 @@ Welcome to the official website of the **Decision Neuroscience Lab** at Shanghai
 ### Master's Students
  **Yue Li (李悦)**, **Zini Liu (刘子妮)**, **Rui Zhang (张睿)**
 
-上外毕业校友
+**上外毕业校友**
 
-**Shiguang Fu (傅仕光)**, Yuanjie Ye(叶媛婕)，**Mengqi Yan (闫梦琦)**, **Kaixin Wu (伍凯欣)**,
+**Shiguang Fu (傅仕光)**, **Yuanjie Ye(叶媛婕)**，**Mengqi Yan (闫梦琦)**, **Kaixin Wu (伍凯欣)**,
 
 ---
 

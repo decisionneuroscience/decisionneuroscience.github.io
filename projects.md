@@ -1,4 +1,4 @@
-[🏠 首页](index.md) | [🔬 科研项目](projects.md) | [📚 论文发表](papers.md) | [🏆 获奖荣誉](awards.md) | [🏫 暑期学校](summer-school.md) | [🛠️ 实验设备](equipment.md) | [💻 GitHub](https://github.com/decisionneuroscience)
+[🏠 首页](index.md) | [🔬 科研项目](projects.md) | [📚 论文发表](papers.md) | [🏆 获奖荣誉](awards.md) | [🏫 暑期学校](summer-school.md) | [🌐 平台资源](platforms.md) | [🛠️ 实验设备](equipment.md) | [💻 GitHub](https://github.com/decisionneuroscience)
 
 # Research Projects | 科研项目
 

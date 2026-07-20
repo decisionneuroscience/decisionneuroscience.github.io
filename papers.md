@@ -1,4 +1,4 @@
-[🏠 首页](index.md) | [🔬 科研项目](projects.md) | [📚 论文发表](papers.md) | [🏆 获奖荣誉](awards.md) | [🏫 暑期学校](summer-school.md) | [🛠️ 实验设备](equipment.md) | [💻 GitHub](https://github.com/decisionneuroscience)
+[🏠 首页](index.md) | [🔬 科研项目](projects.md) | [📚 论文发表](papers.md) | [🏆 获奖荣誉](awards.md) | [🏫 暑期学校](summer-school.md) | [🌐 平台资源](platforms.md) | [🛠️ 实验设备](equipment.md) | [💻 GitHub](https://github.com/decisionneuroscience)
 
 # Publications | 论文发表
 
@@ -16,8 +16,8 @@
 
 ### 📝 工作论文 | Working Papers
 
-- Fu S., **Shen Q.**, Zhang X. *Strategic Ignorance and Overconfidence in Social Learning*. Working paper.
-- **Shen Q.**, Xiao Q., Fu S. *GeoGaze: A Validated Webcam Eye-Tracking Framework for Attentional Drift Diffusion Modeling*. Working paper.
+- **Shen Q.**, Xiao Q., Zhong S. Preferences and Personality Traits in China: Evidence from a Large-Scale Nationwide Survey. Working paper.
+- Fu S., **Shen Q.**, Zhang X. Strategic Ignorance and Overconfidence in Social Learning. Working paper.
 
 ---
 

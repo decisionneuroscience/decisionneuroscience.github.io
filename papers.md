@@ -4,7 +4,13 @@
 
 > [**Google Scholar**](https://scholar.google.com/citations?user=UNyeQzsAAAAJ&hl=en) 总被引 **2100+** 次
 
-**快速导航 | Quick Navigation：** [著作](#monographs) · [工作论文](#working-papers) · [期刊论文](#journal-articles) · [报纸文章](#newspaper-articles) · [知识产权](#intellectual-property)
+<p style="text-align: center; margin: 1.25rem 0;">
+  <a href="#monographs">著作</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="#working-papers">工作论文</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="#journal-articles">期刊论文</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="#newspaper-articles">报纸文章</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="#intellectual-property">知识产权</a>
+</p>
 
 ---
 

@@ -4,7 +4,11 @@
 
 > [**Google Scholar**](https://scholar.google.com/citations?user=UNyeQzsAAAAJ&hl=en) 总被引 **2100+** 次
 
+**快速导航 | Quick Navigation：** [著作](#monographs) · [工作论文](#working-papers) · [期刊论文](#journal-articles) · [报纸文章](#newspaper-articles) · [知识产权](#intellectual-property)
+
 ---
+
+<a id="monographs"></a>
 
 ### 📖 著作 | Monographs
 
@@ -14,12 +18,16 @@
 
 ---
 
+<a id="working-papers"></a>
+
 ### 📝 工作论文 | Working Papers
 
 - **Shen Q.**, Xiao Q., Zhong S. Preferences and Personality Traits in China: Evidence from a Large-Scale Nationwide Survey. Working paper.
 - Fu S., **Shen Q.**, Zhang X. Strategic Ignorance and Overconfidence in Social Learning. Working paper.
 
 ---
+
+<a id="journal-articles"></a>
 
 ### 📄 期刊论文 | Journal Articles
 
@@ -81,6 +89,8 @@
 
 ---
 
+<a id="newspaper-articles"></a>
+
 ### 📰 报纸文章 | Newspaper Articles
 
 - **以智能化科研平台打开基础研究新空间**，《上海宣传通讯》，2026年6月22日。
@@ -88,6 +98,8 @@
 - **让人工智能更好赋能民生福祉**，《文汇报》，2026年5月19日。
 
 ---
+
+<a id="intellectual-property"></a>
 
 ### 💡 知识产权 | Patents & Copyrights
 

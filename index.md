@@ -45,7 +45,6 @@ Welcome to the official website of the **Institute of Computational Neuroscience
 
 - 国际工商管理学院
 - 计算神经科学研究所
-- 脑机协同信息行为教育部重点实验室 & 脑机协同与认知表达上海市重点实验室 & 磁共振成像研究中心
 
 ---
 

@@ -43,7 +43,6 @@ Welcome to the official website of the **Institute of Computational Neuroscience
 
 - 国际工商管理学院
 - 计算神经科学研究所
-- 脑机协同信息行为教育部重点实验室 & 磁共振成像研究中心
 
 ---
 
@@ -255,7 +254,7 @@ We are committed to transparency in research. You can find our pre-registrations
 
 # Research Facilities | 研究设备
 
-计算神经科学研究所依托**脑机协同信息行为教育部重点实验室**与**磁共振成像研究中心**，开展行为实验、计算建模与脑成像研究：
+相关研究依托脑机协同与认知表达上海市重点实验室、脑机协同信息行为教育部重点实验室与磁共振成像研究中心开展：
 
 ### 🧲 神经成像 | Neuroimaging
 

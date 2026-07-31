@@ -1,8 +1,8 @@
 [🏠 首页](index.md) | [🔬 科研项目](projects.md) | [📚 论文发表](papers.md) | [🏆 获奖荣誉](awards.md) | [🏫 暑期学校](summer-school.md) | [🌐 平台资源](platforms.md) | [🛠️ 实验设备](equipment.md) | [💻 GitHub](https://github.com/decisionneuroscience)
 
-# Decision Neuroscience Lab | 决策神经科学实验室
+# Decision Neuroscience | 计算神经科学研究所
 
-Welcome to the official website of the **Decision Neuroscience Lab** at Shanghai International Studies University (SISU). We bridge Neuroeconomics, Deep Learning, and Behavioral Science to advance the frontiers of decision science.
+Welcome to the official website of the **Institute of Computational Neuroscience** at Shanghai International Studies University (SISU). Under the research theme of **Decision Neuroscience**, we integrate neuroeconomics, computational modeling, artificial intelligence, and behavioral science to advance the science of decision-making.
 
 > **Advancing the science of choice and decision making through computational innovation.**
 > **通过计算创新推动决策科学的发展。**
@@ -44,7 +44,8 @@ Welcome to the official website of the **Decision Neuroscience Lab** at Shanghai
 ## 🏛️ Affiliations | 归属
 
 - 国际工商管理学院
-- 脑机协同信息行为教育部重点实验室 &脑机协同与认知表达上海市重点实验室&磁共振成像研究中心
+- 计算神经科学研究所
+- 脑机协同信息行为教育部重点实验室 & 脑机协同与认知表达上海市重点实验室 & 磁共振成像研究中心
 
 ---
 

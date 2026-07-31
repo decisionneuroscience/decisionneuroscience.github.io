@@ -1,6 +1,6 @@
-# Decision Neuroscience Lab | 决策神经科学实验室
+# Decision Neuroscience | 计算神经科学研究所
 
-Welcome to the official website of the **Decision Neuroscience Lab** at Shanghai International Studies University (SISU). We bridge Neuroeconomics, Deep Learning, and Behavioral Science to advance the frontiers of decision science.
+Welcome to the official website of the **Institute of Computational Neuroscience** at Shanghai International Studies University (SISU). Under the research theme of **Decision Neuroscience**, we integrate neuroeconomics, computational modeling, artificial intelligence, and behavioral science to advance the science of decision-making.
 
 > **Advancing the science of choice and decision making through computational innovation.**
 > **通过计算创新推动决策科学的发展。**
@@ -42,6 +42,7 @@ Welcome to the official website of the **Decision Neuroscience Lab** at Shanghai
 ## 🏛️ Affiliations | 归属
 
 - 国际工商管理学院
+- 计算神经科学研究所
 - 脑机协同信息行为教育部重点实验室 & 磁共振成像研究中心
 
 ---
@@ -252,9 +253,9 @@ We are committed to transparency in research. You can find our pre-registrations
 
 ---
 
-# Lab Equipment | 实验设备
+# Research Facilities | 研究设备
 
-实验室依托**脑机协同信息行为教育部重点实验室**与**磁共振成像研究中心**，配备行为实验与脑成像的全栈技术解决方案：
+计算神经科学研究所依托**脑机协同信息行为教育部重点实验室**与**磁共振成像研究中心**，开展行为实验、计算建模与脑成像研究：
 
 ### 🧲 神经成像 | Neuroimaging
 
@@ -268,7 +269,7 @@ We are committed to transparency in research. You can find our pre-registrations
 | 设备 | 规格 | 应用 |
 |------|------|------|
 | **Eye-Tracking** | 高采样率眼动追踪系统 | 注意力, 决策过程 |
-| **Behavioral Lab** | 多工位行为实验室 | 行为实验, 在线测试 |
+| **Behavioral Platform** | 多工位行为实验平台 | 行为实验, 在线测试 |
 
 ### ⚡ 神经调控 | Neuromodulation
 

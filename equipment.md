@@ -1,8 +1,8 @@
 [🏠 首页](index.md) | [🔬 科研项目](projects.md) | [📚 论文发表](papers.md) | [🏆 获奖荣誉](awards.md) | [🏫 暑期学校](summer-school.md) | [🌐 平台资源](platforms.md) | [🛠️ 实验设备](equipment.md) | [💻 GitHub](https://github.com/decisionneuroscience)
 
-# Lab Equipment | 实验设备
+# Research Facilities | 研究设备
 
-实验室依托**脑机协同信息行为教育部重点实验室**与**磁共振成像研究中心**，配备行为实验与脑成像的全栈技术解决方案：
+计算神经科学研究所依托**脑机协同信息行为教育部重点实验室**与**磁共振成像研究中心**，开展行为实验、计算建模与脑成像研究：
 
 ### 🧲 神经成像 | Neuroimaging
 
@@ -16,7 +16,7 @@
 | 设备 | 规格 | 应用 |
 |------|------|------|
 | **Eye-Tracking** | 高采样率眼动追踪系统 | 注意力, 决策过程 |
-| **Behavioral Lab** | 多工位行为实验室 | 行为实验, 在线测试 |
+| **Behavioral Platform** | 多工位行为实验平台 | 行为实验, 在线测试 |
 
 ### ⚡ 神经调控 | Neuromodulation
 
